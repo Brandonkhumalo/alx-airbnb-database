@@ -1,1 +1,1 @@
-ERD/README.md
+![ER Diagram](er_diagram.png)
